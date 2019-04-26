@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{903F6FD5-0BA3-4C76-B8AE-17E08F5454EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedojo", "Pokedojo\Pokedojo.csproj", "{6F20A811-C815-40FA-842B-74C13AA1587C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{903F6FD5-0BA3-4C76-B8AE-17E08F5454EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{903F6FD5-0BA3-4C76-B8AE-17E08F5454EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{903F6FD5-0BA3-4C76-B8AE-17E08F5454EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{903F6FD5-0BA3-4C76-B8AE-17E08F5454EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F20A811-C815-40FA-842B-74C13AA1587C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F20A811-C815-40FA-842B-74C13AA1587C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F20A811-C815-40FA-842B-74C13AA1587C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F20A811-C815-40FA-842B-74C13AA1587C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {68F7B80F-DFF1-4FF8-80D4-3977DA2C8357}
+		SolutionGuid = {6EBDDA07-3613-4A09-888D-086460B7851E}
 	EndGlobalSection
 EndGlobal
