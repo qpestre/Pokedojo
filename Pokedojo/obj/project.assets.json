@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Quentin\\projet-2019-castellan_pestre-sorge\\Pokedojo\\Pokedojo.csproj",
+      "projectUniqueName": "C:\\Users\\Quentin\\Pokedojo\\Pokedojo\\Pokedojo.csproj",
       "projectName": "Pokedojo",
-      "projectPath": "C:\\Users\\Quentin\\projet-2019-castellan_pestre-sorge\\Pokedojo\\Pokedojo.csproj",
+      "projectPath": "C:\\Users\\Quentin\\Pokedojo\\Pokedojo\\Pokedojo.csproj",
       "packagesPath": "C:\\Users\\Quentin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Quentin\\projet-2019-castellan_pestre-sorge\\Pokedojo\\obj\\",
+      "outputPath": "C:\\Users\\Quentin\\Pokedojo\\Pokedojo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
